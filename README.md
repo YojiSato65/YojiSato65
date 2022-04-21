@@ -21,8 +21,9 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
+<br/>
 
-### Stats:
+### GitHub Stats:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YojiSato65&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YojiSato65&theme=tokyonight)]()
