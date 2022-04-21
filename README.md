@@ -22,8 +22,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 <br/>
+<br/>
 
 ### GitHub Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YojiSato65&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YojiSato65&theme=tokyonight)]()
+<a href="https://github.com/YojiSato65">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YojiSato65&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/YojiSato65">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YojiSato65&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
