@@ -4,6 +4,7 @@
 - Responsible and excellent team working skills in diverse environments
 - Great at maximising results in the most efficient way possible
 
+<br/>
 
 ## 🔧 Technologies & Tools
 
