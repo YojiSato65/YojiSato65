@@ -1,8 +1,8 @@
 # Hi there, I'm Yoji👋
 
-- Love learning new things
-- Responsible and excellent team working skills in diverse environments
-- Great at maximising results in the most efficient way possible
+- Responsible person who loves learning new things
+- Always aiming at maximising results in the most efficient way possible
+- Currently pursuing a career in software development where I can grow every day, solve difficult problems creatively, and share knowledge and experiences with a team. 
 
 <br/>
 
